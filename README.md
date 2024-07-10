@@ -1,4 +1,4 @@
-# Php Salesforce Rest Api
+# Php Salesforce Rest Api - Credit
 
 ```Bijesh Shrestha``` ```bjsmasth``` ```bjsmasth@gmail.com``` ```bjsmasth``` ```php rest api```
 
@@ -7,7 +7,7 @@
 Via Composer
 
 ``` bash
-composer require bjsmasth/php-salesforce-rest-api
+composer require coderubix/php-salesforce-rest-api
 ```
 
 # Getting Started
